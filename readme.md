@@ -62,7 +62,7 @@ Ark|648|3
 
 ```bash
    sudo su
-   echo "输出字符"
+   echo "输出字符串"
    cd "path"
 ```
 
@@ -72,7 +72,7 @@ Ark|648|3
 
   int main(void)
   {
-	cout << "输出字符" << endl;
+	cout << "输出字符串" << endl;
   }
 ```
 
