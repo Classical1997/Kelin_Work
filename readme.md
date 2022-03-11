@@ -51,5 +51,12 @@ Ark|648|3
 ## 插入C代码
 
 ```c
+  #include<stdio.h>
+  #include<stdlib.h>
+  #include<string.h>
+  {
+	printf("hello world...\n");
+	return 0;
+  }
 
 
