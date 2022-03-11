@@ -88,3 +88,5 @@ if__name__=='__main__';
 ##超链接
 [Youtube](https://www.youtube.com "跳转到Youtube~")
 
+##图片
+![wallpaper](https://sm.ms/image/toajZnAYe5N4EbF "壁纸")
