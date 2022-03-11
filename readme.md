@@ -58,5 +58,29 @@ Ark|648|3
 	printf("hello world...\n");
 	return 0;
   }
+```
 
+```bash
+   sudo su
+   echo "输出字符"
+   cd "path"
+```
 
+```cpp
+  #include<iostream>
+  using namespace std;
+
+  int main(void)
+  {
+	cout << "输出字符" << endl;
+  }
+```
+
+```python
+  import os
+  def test();
+  	printf("PyCharm No.1!");
+
+if__name__=='__main__';
+	test()
+```
